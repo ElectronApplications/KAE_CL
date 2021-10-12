@@ -1,5 +1,5 @@
 # About
-This is the program for mining KAE (it's not really a cryptocurrency though) I wrote to learn OpenCL.\
+This is a program for mining KAE (which is not really a cryptocurrency though) I wrote to learn OpenCL.\
 It's based on the official CPU miner written in C# - https://github.com/kolya5544/KAEMiner
 
 # Build
